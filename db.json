@@ -1,6 +1,5 @@
-{
-"posts": [
-{"response_code":0,"results":[{"category":"Science & Nature","type":"multiple","difficulty":"medium","question":"NURLANIN ADI NƏDİR?","correct_answer":"NURLAN","incorrect_answers":["TOFİQ","ƏLİ","ALPARSLAN"]},
+{"results":[
+  {"category":"Science & Nature","type":"multiple","difficulty":"medium","question":"NURLANIN ADI NƏDİR?","correct_answer":"NURLAN","incorrect_answers":["TOFİQ","ƏLİ","ALPARSLAN"]},
 {"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"NURLAN HARADA YAŞAYIR?","correct_answer":"YASAMAL","incorrect_answers":["KAMÇATKA","MİAMİ","BAŞINDA"]},
 {"category":"Geography","type":"multiple","difficulty":"medium","question":"NURLAN NECƏ OĞLANDIR?","correct_answer":"YAXŞI","incorrect_answers":["BİLMİRƏM","PİS","OĞLAN?"]},
 {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"NURLANIN ƏN YAXIN DOSTU KİMDİR?","correct_answer":"VASİF","incorrect_answers":["ƏRDOĞAN","PUTİN","Christian Bale"]},
