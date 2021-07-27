@@ -1,5 +1,4 @@
 {
-  "response_code":0,
   "results":[
     {"category":"Science & Nature","type":"multiple","difficulty":"medium","question":"What is the colour of unoxidized blood?","correct_answer":"Red","incorrect_answers":["Blue","Purple","Green"]},
     {"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"What was the code name for the &quot;Nintendo Gamecube&quot;?","correct_answer":"Dolphin","incorrect_answers":["Nitro","Revolution","Atlantis"]},
